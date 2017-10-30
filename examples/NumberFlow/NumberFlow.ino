@@ -26,7 +26,7 @@ void setup()
 }
 void loop()
 {
-  int8_t NumTab[] = "Hello, world!";
+  int8_t NumTab[] = "0123456789 Hello, world!";
   int8_t ListDisp[4];
   unsigned char i = 0;
   unsigned char count = 0;

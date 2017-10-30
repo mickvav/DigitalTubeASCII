@@ -11,7 +11,7 @@
 //                   
 // Demo code:
 //   ClockDisplay: Display a clock like 12:00.
-//   NumberFlow: Numbers from 0 to 9 flow from right to left.
+//   NumberFlow: Numbers from 0 to 9 flow from right to left + text Hello world.
 //   Stopwatch: A stopwatch that can be controled by the serial
 //		monitor.
 //
